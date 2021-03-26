@@ -1,2 +1,2 @@
-# Supplemental Digital Appendix to:
-### A Method to Standardize Application Scores
+## Supplemental Digital Appendix to:
+# A Method to Standardize Application Scores
